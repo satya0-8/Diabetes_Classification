@@ -23,7 +23,7 @@ Diabetes is an increasingly growing health issue due to our inactive lifestyle. 
 
 
 ### Learning Objective
-The following points were the objective of the project (The main intention was to create an end-to-end ML project.)  
+The following points were the objective of the project.  
 - Data gathering 
 - Descriptive Analysis 
 - Data Visualizations 
